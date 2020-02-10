@@ -16,7 +16,7 @@ Pendencias: Alguns detalhes nos layouts, implementação da API de search full t
 
 Projeto executado nos dias 08/02 e 09/02/2020, totalizando 20 horas de execução.
 
-Agradeço a oportunidade de participar do teste. Sou iniciante no react, mesmo não dando tempo de concluir o teste eu estou feliz com meu resultade e pude aprender bastante. Espero evoluir cada vez mais!
+Agradeço a oportunidade de participar do teste. Sou iniciante no react, mesmo não dando tempo de concluir o teste eu estou feliz com meu resultado e pude aprender bastante. Espero evoluir cada vez mais!
 
 ## Referencias Consultadas para o Desenvolvimento do Projeto
 
